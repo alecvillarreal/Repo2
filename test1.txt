@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0878-8005
+
+ Directory of C:\Users\Alec Villarreal\Documents\GitProjects
+
+04/27/2020  10:42 PM    <DIR>          .
+04/27/2020  10:42 PM    <DIR>          ..
+04/27/2020  10:40 PM    <DIR>          .git
+04/27/2020  10:27 PM    <DIR>          test
+04/27/2020  10:42 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               4 Dir(s)  748,225,867,776 bytes free
